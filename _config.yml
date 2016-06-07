@@ -63,7 +63,7 @@ disqus_shortname:
 duoshuo_shortname: yu-zhengyu
 
 # Google分析track id，若为空则不启用
-google_analytics:
+google_analytics: UA-78474436-1
 # 腾讯分析sId，若为空则不启用
 tencent_analytics:
 
